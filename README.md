@@ -3,7 +3,7 @@ Project was taught by instructor Marcelo Marques (https://github.com/marcelomarq
 
 I changed the code to:
 1) Count the words of a book and inform the top 10 words used (result folder) 
-2) Count the words of a Thor Ragnarok script and save file with the last 20 words used (result_script folder)
+2) Count the words of a Thor Ragnarok script and save file with the 20 least used words (result_script folder)
 
 Objectives:
 * Explore Google Cloud Platform
